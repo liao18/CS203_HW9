@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=initSquadNumber\ initHealth
+comment0.target=ChineseTank(int,\ double)
+comment1.params=
+comment1.target=double\ getCost()
+numComments=2

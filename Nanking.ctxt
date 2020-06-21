@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=initResources
+comment0.target=Nanking(double)
+comment1.params=a
+comment1.target=void\ addCiv(civilianUnit)
+comment2.params=amount
+comment2.target=void\ addResources(double)
+comment3.params=amount
+comment3.target=void\ minusResources(double)
+comment4.params=
+comment4.target=double\ getResources()
+comment5.params=
+comment5.target=boolean\ isAlive()
+comment6.params=
+comment6.target=void\ killCivilian()
+comment7.params=
+comment7.target=int\ headCount()
+numComments=8

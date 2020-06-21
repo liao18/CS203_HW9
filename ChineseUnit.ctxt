@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=initSquadNumber\ initHealth
+comment0.target=ChineseUnit(int,\ double)
+comment1.params=a
+comment1.target=void\ addChineseArmy(ChineseSoldier)
+comment2.params=a
+comment2.target=void\ addChineseArmy(ChineseTank)
+comment3.params=
+comment3.target=void\ addChineseUnit()
+comment4.params=
+comment4.target=int\ headCount()
+comment5.params=
+comment5.target=void\ armyStats()
+comment6.params=a
+comment6.target=void\ combats(JapaneseUnit)
+numComments=7
